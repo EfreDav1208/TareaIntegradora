@@ -1,0 +1,17 @@
+.boton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#contenedor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.tabla{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
